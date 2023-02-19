@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -44,13 +44,13 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/wizytowka-nr1.jpg",
-    "mbrsiteDomain": "q4rwh6d1go",
+    "mbrsiteDomain": "0tkehjty3d",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "http://123websitetest.github.io",
+    "siteUrl": "http://123websitetest.github.io/111website.github.io",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -1114,7 +1114,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Prywatnosc i zabezpieczenia&nbsp;",
+        "title": "Prywatnosc i zabezpieczenia",
         "order": "4"
       },
       "components": [
@@ -1553,7 +1553,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Home&nbsp;",
+        "title": "Home",
         "order": "3"
       },
       "components": [
