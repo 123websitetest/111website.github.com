@@ -806,7 +806,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: #5f6366;
+  background: rgba(95, 99, 102, 0.9);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -1552,7 +1552,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: #5f6366;
+  background: rgba(95, 99, 102, 0.9);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
@@ -2304,7 +2304,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: #5f6366;
+  background: rgba(95, 99, 102, 0.9);
 }
 .cid-sFGMsvHDIa .navbar.opened {
   transition: all 0.3s;
